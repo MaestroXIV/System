@@ -1,8 +1,8 @@
 1M
 
 * 1N
-  ** 2!c 4+!d or strong bal
-  ** test
+  * 2!c 4+!d or strong bal
+  * test
 * 2 !c invit !c or _any_ GF (usually not GF in OM or !d)
 * 2 !d (over 1!s): 5+ !h (at least invitational strenght 8+ with 6, 10ish+ with 5!h)
 * 2M-1 at least invit (**very good** 8, decent 9+) with fit (usually 3 card), can be unlimited (GF)
