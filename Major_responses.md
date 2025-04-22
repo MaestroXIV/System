@@ -1,7 +1,7 @@
 1M
 
 * 1N
-  * 2!c 4+♢ $\vardiamond$ or strong bal
+  * 2!c 4+♢ $\diamondsuit$ or strong bal
   * test
 * 2 !c invit !c or _any_ GF (usually not GF in OM or !d)
   * 2!d min, but no 4oM
